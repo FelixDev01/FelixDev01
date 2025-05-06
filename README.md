@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felixbrolly_)
 
 ![Felix GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixDev01&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixDev01)](https://github.com/FelixDev01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixDev01&theme=dracula)](https://github.com/FelixDev01/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
