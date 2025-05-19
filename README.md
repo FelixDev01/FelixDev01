@@ -5,8 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/felix-villanueva-condori-125a582b8)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felixbrolly_)
 
-![Felix GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixDev01&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixDev01&theme=dracula)](https://github.com/FelixDev01/github-readme-stats)
+![Felix GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixDev01&show_icons=true&theme=radical))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixDev01&theme=radical)](https://github.com/FelixDev01/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
