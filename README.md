@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🎯 Fullstack Developer | Java Backend | Arquitetura de Software.</h2>
+<h2 align="left">🎯 Fullstack Developer | Especialista em Java Backend | Focado em Arquitetura de Software</h2>
 
 ###
 
