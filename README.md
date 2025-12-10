@@ -6,6 +6,11 @@
 
 ###
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelixDev01&theme=radical)](https://github.com/FelixDev01)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelixDev01&theme=radical)](https://github.com/FelixDev01)
+
+###
+
 <h2 align="left">💻 Sobre mim</h2>
 
 ###
